@@ -88,6 +88,7 @@ src/mcp/protocol.ts  JSON-RPC dispatch and protocol-version negotiation
 src/mcp/tools.ts     tool definitions and handlers
 src/mcp/format.ts    audit report formatting and listing-match checks
 server.json          MCP Registry metadata
+plugin.json, mcp.json Agent Plugins manifest and server config (agent-plugins.org 1.1.0)
 ```
 
 The audit and post generation themselves (`#core/server/utils/publicTools`) live in the app and are shared with the free tools on [our website](https://therapists.ariadnemarketing.com/audit). Protocol versions supported: `2025-11-25`, `2025-06-18`, `2025-03-26`, `2024-11-05`.

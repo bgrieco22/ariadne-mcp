@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "ariadne": {
+      "type": "streamable-http",
+      "url": "https://therapists.ariadnemarketing.com/mcp"
+    }
+  }
+}

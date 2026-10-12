@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "ariadne-for-therapists",
+  "version": "1.0.0",
+  "description": "Free marketing tools for therapists in private practice: audit a practice's Google Business Profile and website, and draft an ethics-safe sample Google Business post. Remote MCP server, no auth.",
+  "author": {
+    "name": "Ariadne Marketing LLC",
+    "email": "hello@ariadnemarketing.com",
+    "url": "https://ariadnemarketing.com/therapists"
+  },
+  "homepage": "https://ariadnemarketing.com/therapists",
+  "repository": "https://github.com/bgrieco22/ariadne-mcp",
+  "license": "MIT",
+  "keywords": ["therapists", "private-practice", "marketing", "google-business-profile", "local-seo", "mcp"]
+}
